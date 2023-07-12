@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2023-06-26T15:41:42Z</date>
+	<key>Application Version</key><string>1.3.5.8</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/beau/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>39869F1E0878CAE8</string>
+	<key>Tracks</key>
+	<dict>
+		<key>2465</key>
+		<dict>
+			<key>Track ID</key><integer>2465</integer>
+			<key>Name</key><string>Every Little Thing</string>
+			<key>Artist</key><string>Louisa Wendorff</string>
+			<key>Album Artist</key><string>Louisa Wendorff</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8517750</integer>
+			<key>Total Time</key><integer>241320</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2019-08-05T04:57:44Z</date>
+			<key>Date Added</key><date>2017-01-24T18:11:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>258</integer>
+			<key>Play Date</key><integer>3758279520</integer>
+			<key>Play Date UTC</key><date>2023-02-03T22:32:00Z</date>
+			<key>Skip Count</key><integer>12</integer>
+			<key>Skip Date</key><date>2021-09-29T14:24:23Z</date>
+			<key>Release Date</key><date>2014-06-17T07:00:00Z</date>
+			<key>Normalization</key><integer>2449</integer>
+			<key>Persistent ID</key><string>3FBEBF6D616A85E9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/beau/Music/iTunes/iTunes%20Media/Apple%20Music/Louisa%20Wendorff/Unknown%20Album/Every%20Little%20Thing.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6024</key>
+		<dict>
+			<key>Track ID</key><integer>6024</integer>
+			<key>Name</key><string>Grace</string>
+			<key>Artist</key><string>Rag'n'Bone Man</string>
+			<key>Album Artist</key><string>Rag'n'Bone Man</string>
+			<key>Composer</key><string>Rory Graham, Simon Aldred &#38; Fred Cox</string>
+			<key>Album</key><string>Human (Deluxe)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7130044</integer>
+			<key>Total Time</key><integer>211073</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2019-06-01T03:43:26Z</date>
+			<key>Date Added</key><date>2018-08-29T20:06:30Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>240</integer>
+			<key>Play Date</key><integer>3766644791</integer>
+			<key>Play Date UTC</key><date>2023-05-11T17:13:11Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2023-02-10T04:38:14Z</date>
+			<key>Release Date</key><date>2017-02-10T08:00:00Z</date>
+			<key>Normalization</key><integer>2180</integer>
+			<key>Sort Album</key><string>Human (Deluxe)</string>
+			<key>Sort Artist</key><string>Rag'n'Bone Man</string>
+			<key>Sort Name</key><string>Grace</string>
+			<key>Persistent ID</key><string>AC88032ECF74C459</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/beau/Music/iTunes/iTunes%20Media/Apple%20Music/Rag'n'Bone%20Man/Human%20(Deluxe)/08%20Grace.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6350</key>
+		<dict>
+			<key>Track ID</key><integer>6350</integer>
+			<key>Name</key><string>Left Behind</string>
+			<key>Artist</key><string>Hunter Price</string>
+			<key>Album Artist</key><string>Hunter Price</string>
+			<key>Album</key><string>Left Behind - Single</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7058680</integer>
+			<key>Total Time</key><integer>197500</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2019-06-01T03:42:50Z</date>
+			<key>Date Added</key><date>2018-12-10T14:17:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>279</integer>
+			<key>Play Date</key><integer>3768565631</integer>
+			<key>Play Date UTC</key><date>2023-06-02T22:47:11Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2022-12-19T17:16:02Z</date>
+			<key>Release Date</key><date>2018-06-29T07:00:00Z</date>
+			<key>Normalization</key><integer>2540</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Left Behind - Single</string>
+			<key>Sort Artist</key><string>Hunter Price</string>
+			<key>Sort Name</key><string>Left Behind</string>
+			<key>Persistent ID</key><string>BA844E25765778A5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/beau/Music/iTunes/iTunes%20Media/Apple%20Music/Hunter%20Price/Left%20Behind%20-%20Single/01%20Left%20Behind.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6736</key>
+		<dict>
+			<key>Track ID</key><integer>6736</integer>
+			<key>Name</key><string>Read All About It, Pt. III</string>
+			<key>Artist</key><string>Emeli Sandé</string>
+			<key>Album Artist</key><string>Emeli Sandé</string>
+			<key>Composer</key><string>Stephen Manderson, Iain James, Tom Barnes, Ben Kohn &#38; Pete Kelleher</string>
+			<key>Album</key><string>Our Version of Events (Deluxe Edition)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9864738</integer>
+			<key>Total Time</key><integer>283866</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2019-11-23T01:05:53Z</date>
+			<key>Date Added</key><date>2019-05-19T05:41:30Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>240</integer>
+			<key>Play Date</key><integer>3761973491</integer>
+			<key>Play Date UTC</key><date>2023-03-18T15:38:11Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2022-09-23T14:27:55Z</date>
+			<key>Release Date</key><date>2013-01-01T08:00:00Z</date>
+			<key>Normalization</key><integer>3290</integer>
+			<key>Sort Album</key><string>Our Version of Events (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>Emeli Sandé</string>
+			<key>Sort Name</key><string>Read All About It, Pt. III</string>
+			<key>Persistent ID</key><string>5C8BBAB7810A5ABB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/beau/Music/iTunes/iTunes%20Media/Apple%20Music/Emeli%20Sande%CC%81/Our%20Version%20of%20Events%20(Deluxe%20Edition)/16%20Read%20All%20About%20It,%20Pt.%20III.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6997</key>
+		<dict>
+			<key>Track ID</key><integer>6997</integer>
+			<key>Name</key><string>Cover Me Up</string>
+			<key>Artist</key><string>Morgan Wallen</string>
+			<key>Album Artist</key><string>Morgan Wallen</string>
+			<key>Composer</key><string>Jason Isbell</string>
+			<key>Album</key><string>Cover Me Up - Single</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10288150</integer>
+			<key>Total Time</key><integer>292662</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Added</key><date>2020-01-30T14:04:39Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>320</integer>
+			<key>Play Date</key><integer>3769785671</integer>
+			<key>Play Date UTC</key><date>2023-06-17T01:41:11Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2023-04-09T21:48:46Z</date>
+			<key>Release Date</key><date>2019-04-05T07:00:00Z</date>
+			<key>Normalization</key><integer>3319</integer>
+			<key>Sort Album</key><string>Cover Me Up - Single</string>
+			<key>Sort Artist</key><string>Morgan Wallen</string>
+			<key>Sort Name</key><string>Cover Me Up</string>
+			<key>Persistent ID</key><string>45FCE79E0267CE51</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/beau/Music/iTunes/iTunes%20Media/Apple%20Music/Morgan%20Wallen/Cover%20Me%20Up%20-%20Single/01%20Cover%20Me%20Up.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7000</key>
+		<dict>
+			<key>Track ID</key><integer>7000</integer>
+			<key>Name</key><string>Heartless (feat. Morgan Wallen)</string>
+			<key>Artist</key><string>Diplo</string>
+			<key>Album Artist</key><string>Diplo</string>
+			<key>Composer</key><string>Morgan Wallen, Thomas Wesley Pentz, Henry Agincourt Allen, Ernest Keith Smith, Ryan Hurd &#38; Ryan "Charlie Handsome" Vojtesak</string>
+			<key>Album</key><string>Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6046213</integer>
+			<key>Total Time</key><integer>169226</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-07-17T00:00:17Z</date>
+			<key>Date Added</key><date>2020-01-30T14:04:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>247</integer>
+			<key>Play Date</key><integer>3767453107</integer>
+			<key>Play Date UTC</key><date>2023-05-21T01:45:07Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2023-04-05T17:19:39Z</date>
+			<key>Release Date</key><date>2020-05-29T07:00:00Z</date>
+			<key>Normalization</key><integer>4201</integer>
+			<key>Sort Album</key><string>Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil</string>
+			<key>Sort Artist</key><string>Diplo</string>
+			<key>Sort Name</key><string>Heartless (feat. Morgan Wallen)</string>
+			<key>Persistent ID</key><string>325FA5A7FD495DCB</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/beau/Music/iTunes/iTunes%20Media/Apple%20Music/Diplo/Diplo%20Presents%20Thomas%20Wesley_%20Chapter%201%20-%20Snake%20Oil/03%20Heartless%20(feat.%20Morgan%20Wallen).m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7177</key>
+		<dict>
+			<key>Track ID</key><integer>7177</integer>
+			<key>Name</key><string>Heartless (feat. Morgan Wallen)</string>
+			<key>Artist</key><string>Diplo &#38; Julia Michaels</string>
+			<key>Album Artist</key><string>Diplo</string>
+			<key>Composer</key><string>Morgan Wallen, Thomas Wesley Pentz, Henry Agincourt Allen, Ernest Keith Smith, Ryan Hurd &#38; Ryan "Charlie Handsome" Vojtesak</string>
+			<key>Album</key><string>Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6171053</integer>
+			<key>Total Time</key><integer>172973</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-07-16T23:45:26Z</date>
+			<key>Date Added</key><date>2020-03-31T02:40:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>150</integer>
+			<key>Play Date</key><integer>3769780429</integer>
+			<key>Play Date UTC</key><date>2023-06-17T00:13:49Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2023-02-19T04:19:17Z</date>
+			<key>Release Date</key><date>2020-05-29T07:00:00Z</date>
+			<key>Normalization</key><integer>5080</integer>
+			<key>Sort Album</key><string>Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil</string>
+			<key>Sort Artist</key><string>Diplo &#38; Julia Michaels</string>
+			<key>Sort Name</key><string>Heartless (feat. Morgan Wallen)</string>
+			<key>Persistent ID</key><string>C773D0497C357D8A</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/beau/Music/iTunes/iTunes%20Media/Apple%20Music/Diplo/Diplo%20Presents%20Thomas%20Wesley_%20Chapter%201%20-%20Snake%20Oil/11%20Heartless%20(feat.%20Morgan%20Wallen).m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7243</key>
+		<dict>
+			<key>Track ID</key><integer>7243</integer>
+			<key>Name</key><string>Where It Stays</string>
+			<key>Artist</key><string>Charlotte OC</string>
+			<key>Album Artist</key><string>Charlotte OC</string>
+			<key>Composer</key><string>Linda Perry &#38; Charlotte O'Connor</string>
+			<key>Album</key><string>Careless People</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7648993</integer>
+			<key>Total Time</key><integer>218439</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2020-07-16T23:46:00Z</date>
+			<key>Date Added</key><date>2020-06-28T04:02:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>125</integer>
+			<key>Play Date</key><integer>3758607765</integer>
+			<key>Play Date UTC</key><date>2023-02-07T17:42:45Z</date>
+			<key>Release Date</key><date>2017-03-31T07:00:00Z</date>
+			<key>Normalization</key><integer>2519</integer>
+			<key>Sort Album</key><string>Careless People</string>
+			<key>Sort Artist</key><string>Charlotte OC</string>
+			<key>Sort Name</key><string>Where It Stays</string>
+			<key>Persistent ID</key><string>88EEFEDA4A9D14EB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/beau/Music/iTunes/iTunes%20Media/Apple%20Music/Charlotte%20OC/Careless%20People/10%20Where%20It%20Stays.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7255</key>
+		<dict>
+			<key>Track ID</key><integer>7255</integer>
+			<key>Name</key><string>Falling for You</string>
+			<key>Artist</key><string>Charlotte OC</string>
+			<key>Album Artist</key><string>Charlotte OC</string>
+			<key>Composer</key><string>Charlotte O'Connor, Fred Abbott &#38; Martin Craft</string>
+			<key>Album</key><string>Falling for You - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7356616</integer>
+			<key>Total Time</key><integer>206290</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-07-16T23:45:59Z</date>
+			<key>Date Added</key><date>2020-06-28T04:07:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>88</integer>
+			<key>Play Date</key><integer>3756816781</integer>
+			<key>Play Date UTC</key><date>2023-01-18T00:13:01Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2021-11-10T00:21:22Z</date>
+			<key>Release Date</key><date>2020-04-10T07:00:00Z</date>
+			<key>Normalization</key><integer>2105</integer>
+			<key>Sort Album</key><string>Falling for You - Single</string>
+			<key>Sort Artist</key><string>Charlotte OC</string>
+			<key>Sort Name</key><string>Falling for You</string>
+			<key>Persistent ID</key><string>A329FBD0E76F2BC2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/beau/Music/iTunes/iTunes%20Media/Apple%20Music/Charlotte%20OC/Falling%20for%20You%20-%20Single/01%20Falling%20for%20You.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7264</key>
+		<dict>
+			<key>Track ID</key><integer>7264</integer>
+			<key>Name</key><string>Strangers in the Dark</string>
+			<key>Artist</key><string>Charlotte OC</string>
+			<key>Album Artist</key><string>Charlotte OC</string>
+			<key>Composer</key><string>Charlotte O'Connor &#38; Liam Howe</string>
+			<key>Album</key><string>Oh the Agony, Oh the Ecstasy - EP</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8447982</integer>
+			<key>Total Time</key><integer>239383</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-07-16T23:45:58Z</date>
+			<key>Date Added</key><date>2020-06-28T04:12:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>76</integer>
+			<key>Play Date</key><integer>3750737296</integer>
+			<key>Play Date UTC</key><date>2022-11-08T15:28:16Z</date>
+			<key>Skip Count</key><integer>15</integer>
+			<key>Skip Date</key><date>2023-01-30T00:45:09Z</date>
+			<key>Release Date</key><date>2020-05-15T07:00:00Z</date>
+			<key>Normalization</key><integer>3294</integer>
+			<key>Sort Album</key><string>Oh the Agony, Oh the Ecstasy - EP</string>
+			<key>Sort Artist</key><string>Charlotte OC</string>
+			<key>Sort Name</key><string>Strangers in the Dark</string>
+			<key>Persistent ID</key><string>12697C0DA29126D2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/beau/Music/iTunes/iTunes%20Media/Apple%20Music/Charlotte%20OC/Oh%20the%20Agony,%20Oh%20the%20Ecstasy%20-%20EP/05%20Strangers%20in%20the%20Dark.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7452</key>
+		<dict>
+			<key>Track ID</key><integer>7452</integer>
+			<key>Name</key><string>Chasing After You</string>
+			<key>Artist</key><string>Ryan Hurd &#38; Maren Morris</string>
+			<key>Album Artist</key><string>Ryan Hurd &#38; Maren Morris</string>
+			<key>Composer</key><string>Brinley Addington &#38; Jerry Flowers</string>
+			<key>Album</key><string>Chasing After You - Single</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7792227</integer>
+			<key>Total Time</key><integer>207974</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-03-18T02:47:02Z</date>
+			<key>Date Added</key><date>2021-03-18T02:47:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>70</integer>
+			<key>Play Date</key><integer>3767461611</integer>
+			<key>Play Date UTC</key><date>2023-05-21T04:06:51Z</date>
+			<key>Release Date</key><date>2021-02-12T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Chasing After You - Single</string>
+			<key>Sort Artist</key><string>Ryan Hurd &#38; Maren Morris</string>
+			<key>Sort Name</key><string>Chasing After You</string>
+			<key>Persistent ID</key><string>0C4BECC0DB921193</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>7466</key>
+		<dict>
+			<key>Track ID</key><integer>7466</integer>
+			<key>Name</key><string>Porch Swing Angel</string>
+			<key>Artist</key><string>Muscadine Bloodline</string>
+			<key>Album Artist</key><string>Muscadine Bloodline</string>
+			<key>Album</key><string>Porch Swing Angel - Single</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8167143</integer>
+			<key>Total Time</key><integer>230272</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2021-03-18T03:00:56Z</date>
+			<key>Date Added</key><date>2021-03-18T03:00:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>146</integer>
+			<key>Play Date</key><integer>3770011117</integer>
+			<key>Play Date UTC</key><date>2023-06-19T16:18:37Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2023-04-13T19:34:19Z</date>
+			<key>Release Date</key><date>2016-04-17T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Porch Swing Angel - Single</string>
+			<key>Sort Artist</key><string>Muscadine Bloodline</string>
+			<key>Sort Name</key><string>Porch Swing Angel</string>
+			<key>Persistent ID</key><string>9879ABAECAB0C7F4</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>7514</key>
+		<dict>
+			<key>Track ID</key><integer>7514</integer>
+			<key>Name</key><string>Stuck In The Middle</string>
+			<key>Artist</key><string>Tai Verdes</string>
+			<key>Album Artist</key><string>Tai Verdes</string>
+			<key>Composer</key><string>Tyler James Colon &#38; Pacôme Gendreau</string>
+			<key>Album</key><string>Stuck In The Middle - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6873048</integer>
+			<key>Total Time</key><integer>196000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2021-03-23T05:15:21Z</date>
+			<key>Date Added</key><date>2021-03-23T05:15:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>69</integer>
+			<key>Play Date</key><integer>3768300845</integer>
+			<key>Play Date UTC</key><date>2023-05-30T21:14:05Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-08-05T14:39:30Z</date>
+			<key>Release Date</key><date>2020-05-29T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Stuck In The Middle - Single</string>
+			<key>Sort Artist</key><string>Tai Verdes</string>
+			<key>Sort Name</key><string>Stuck In The Middle</string>
+			<key>Persistent ID</key><string>1237C87BD7753D1E</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>7516</key>
+		<dict>
+			<key>Track ID</key><integer>7516</integer>
+			<key>Name</key><string>Whiskey to My Soul</string>
+			<key>Artist</key><string>Roan Ash</string>
+			<key>Album Artist</key><string>Roan Ash</string>
+			<key>Composer</key><string>Roan Van As &#38; Christoph Kotze</string>
+			<key>Album</key><string>Whiskey to My Soul</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7981133</integer>
+			<key>Total Time</key><integer>225773</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2021-03-23T15:55:14Z</date>
+			<key>Date Added</key><date>2021-03-23T15:55:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>196</integer>
+			<key>Play Date</key><integer>3765517587</integer>
+			<key>Play Date UTC</key><date>2023-04-28T16:06:27Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2023-04-17T23:04:14Z</date>
+			<key>Release Date</key><date>2018-03-09T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Whiskey to My Soul</string>
+			<key>Sort Artist</key><string>Roan Ash</string>
+			<key>Sort Name</key><string>Whiskey to My Soul</string>
+			<key>Persistent ID</key><string>F2AB4BA483EB8A6E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>7532</key>
+		<dict>
+			<key>Track ID</key><integer>7532</integer>
+			<key>Name</key><string>Ride the Lightning (717 Tapes)</string>
+			<key>Artist</key><string>Warren Zeiders</string>
+			<key>Album Artist</key><string>Warren Zeiders</string>
+			<key>Composer</key><string>Eric Paslay, Rob Crosby &#38; Warren Zeiders</string>
+			<key>Album</key><string>Ride the Lightning (717 Tapes) - Single</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6816269</integer>
+			<key>Total Time</key><integer>186459</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-07-19T13:41:05Z</date>
+			<key>Date Added</key><date>2021-07-19T13:41:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>81</integer>
+			<key>Play Date</key><integer>3769847759</integer>
+			<key>Play Date UTC</key><date>2023-06-17T18:55:59Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2023-03-31T18:17:33Z</date>
+			<key>Release Date</key><date>2021-06-25T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Ride the Lightning (717 Tapes) - Single</string>
+			<key>Sort Artist</key><string>Warren Zeiders</string>
+			<key>Sort Name</key><string>Ride the Lightning (717 Tapes)</string>
+			<key>Persistent ID</key><string>2FDB908ECD5BDDB9</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>7536</key>
+		<dict>
+			<key>Track ID</key><integer>7536</integer>
+			<key>Name</key><string>Dumb Love</string>
+			<key>Artist</key><string>Mimi Webb</string>
+			<key>Album Artist</key><string>Mimi Webb</string>
+			<key>Composer</key><string>Mimi Webb, Amie Miriello, Johnny Black &#38; Garen Gueyikian</string>
+			<key>Album</key><string>Dumb Love - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7440984</integer>
+			<key>Total Time</key><integer>207068</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-07-22T12:00:22Z</date>
+			<key>Date Added</key><date>2021-07-22T12:00:22Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>43</integer>
+			<key>Play Date</key><integer>3766382499</integer>
+			<key>Play Date UTC</key><date>2023-05-08T16:21:39Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2022-10-07T23:46:26Z</date>
+			<key>Release Date</key><date>2021-06-11T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Dumb Love - Single</string>
+			<key>Sort Artist</key><string>Mimi Webb</string>
+			<key>Sort Name</key><string>Dumb Love</string>
+			<key>Persistent ID</key><string>81D1605459B235F1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>7558</key>
+		<dict>
+			<key>Track ID</key><integer>7558</integer>
+			<key>Name</key><string>Fly Away</string>
+			<key>Artist</key><string>Tones And I</string>
+			<key>Album Artist</key><string>Tones And I</string>
+			<key>Composer</key><string>Toni Watson</string>
+			<key>Album</key><string>Welcome to the Madhouse</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6508045</integer>
+			<key>Total Time</key><integer>178157</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2021-09-13T13:05:00Z</date>
+			<key>Date Added</key><date>2021-09-13T13:05:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>207</integer>
+			<key>Play Date</key><integer>3765348154</integer>
+			<key>Play Date UTC</key><date>2023-04-26T17:02:34Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2023-04-07T16:12:35Z</date>
+			<key>Release Date</key><date>2020-11-13T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Welcome to the Madhouse</string>
+			<key>Sort Artist</key><string>Tones And I</string>
+			<key>Sort Name</key><string>Fly Away</string>
+			<key>Persistent ID</key><string>1201A5CE2A44E6F9</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Escape </string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>14235</integer>
+			<key>Playlist Persistent ID</key><string>775D31E54CAD9D8E</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>6997</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7000</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7177</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7243</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7255</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7264</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6736</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6350</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2465</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6024</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7536</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7532</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7514</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7516</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7466</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7452</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7558</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
